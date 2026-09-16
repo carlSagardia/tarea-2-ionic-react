@@ -13,6 +13,6 @@ Se modificó la estructura inicial del taller para consumir la API pública de l
 5. **Ajustes visuales:** Se aplico CSS (`grid`) para que las tarjetas se adapten correctamente a la pantalla.
 
 ## Capturas de Pantalla
-A continuación se muestra el funcionamiento:
+Trate de poner aqui la imagen pero no se si se vera, asi que igualmente la subi en este mismo repositorio
 
 <img width="1342" height="1038" alt="{DCFEA909-4639-4B49-BA44-ABA4CCF56DA2}" src="https://github.com/user-attachments/assets/f871a67b-f011-4769-b7c7-c34fadf574dd" />
