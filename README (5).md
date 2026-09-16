@@ -15,4 +15,6 @@ Se modificó la estructura inicial del taller para consumir la API pública de l
 ## Capturas de Pantalla
 Trate de poner aqui la imagen pero no se si se vera, asi que igualmente la subi en este mismo repositorio
 
+![image alt](https://github.com/carlSagardia/tarea-2-ionic-react/blob/dbd59af0809c53695ddf9963e22ce68a10daaca2/captura%20de%20pantalla.png)
+
 <img width="1342" height="1038" alt="{DCFEA909-4639-4B49-BA44-ABA4CCF56DA2}" src="https://github.com/user-attachments/assets/f871a67b-f011-4769-b7c7-c34fadf574dd" />
